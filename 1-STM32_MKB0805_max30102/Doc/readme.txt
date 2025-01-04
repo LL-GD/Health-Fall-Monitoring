@@ -1,0 +1,12 @@
+OLED :
+	SCK B15
+	SDA B14
+
+UART:
+	RX A9
+	TX A10
+	
+MLX0805:
+	RX A2
+	TX A3
+	
